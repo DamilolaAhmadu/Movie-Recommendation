@@ -41,7 +41,7 @@ The detailed analysis and model creation can be found in the .ipynb file.
 
 ## Result :
 
-Some of the test images are below.
+Some of the test images are s below.
 
 The results from Movie-Movie Similarity is as below:
 
