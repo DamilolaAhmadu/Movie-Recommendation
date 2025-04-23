@@ -65,7 +65,7 @@ The sample movie recommendation based on Collaborative Filtering is as follows:
 
 ## Conclusions :
 
-In this project, we learned the importance of Recommendation Systems, the types of recommender systems being implemented, and how matrix factorization is used to enhance a system. 
+In this project, we learned the importance of Recommendation Systems, the types of recommender system being implemented, and how matrix factorization is used to enhance a system. 
 
 We also built a movie recommendation system that considers user-user similarity, movie-movie similarity, global averages and matrix factorization. These concepts can be applied to any other user-item interactions systems.
 
