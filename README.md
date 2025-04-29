@@ -17,7 +17,7 @@ The business objectives for us are :
 
 ## Data Collection :
 
-The dataset has been obtained from Grouplens.
+The data set has been obtained from Grouplens.
 
 Link : https://grouplens.org/datasets/movielens/20m/
 
