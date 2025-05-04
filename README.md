@@ -10,7 +10,7 @@ All entertainment websites or online stores have millions/billions of items. It 
 
 Recommendation Systems in the world of machine learning have become very popular and are of huge advantage to tech giants like Netflix, Amazon and many more to target their content to a specific audience. These recommendation engines are so strong in their predictions that they can dynamically alter the state of what the user sees on their page based on the user’s interaction with the app.
 
-The business objectives f are : 
+The business objectives are : 
 1. To create a Collaborative Filtering based Movie Recommendation System
 2. Predict the rating a user would give to a movie that he has not yet rated
 3. Minimize the differences between predicted and actual ratings (RMSE and MAPE)
