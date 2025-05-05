@@ -15,7 +15,7 @@ The business objectives are :
 2. Predict the rating a user would give to a movie that he has not yet rated
 3. Minimize the differences between predicted and actual ratings (RMSE and MAPE)
 
-## Data Collection :
+## Data Collections :
 
 The data set has been obtained from Grouplens.
 
