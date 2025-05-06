@@ -33,7 +33,7 @@ For our objective, we would be using "ratings.csv" and "movies.csv" data files.
 
 The following modelling approach was used in the project:
 
-1. Loading & exploring the Movie and User ratings data
+1. Loading & exploring the Movies and User ratings data
 2. Creating User-Item Matrix, User-User and Item-Item similarity matrices for Movie Recommendations
 3. Creating feature and applying ML models to predict the ratings for unseen movies for a user
 
