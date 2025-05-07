@@ -51,7 +51,7 @@ The results from User-User Similarity is as below:
 
 ![test](Snips/M_2.JPG)
 
-The Feature Importance for predicting ratings  as below:
+The Feature Importance for predicting ratings are as below:
 
 ![test](Snips/M_3.JPG)
 
