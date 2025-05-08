@@ -39,7 +39,7 @@ The following modelling approaches was used in the project:
 
 The detailed analysis and model creation can be found in the .ipynb file. 
 
-## Result :
+## Results :
 
 Some of the test images are shown below:
 
