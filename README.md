@@ -43,7 +43,7 @@ The detailed analysis and model creation can be found in the .ipynb file.
 
 Some of the test images are shown below:
 
-The results from Movie-Movie Similarity i as below:
+The results from Movie-Movie Similarity  as below:
 
 ![test](Snips/M_1.JPG)
 
