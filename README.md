@@ -47,7 +47,7 @@ The results from Movie-Movie Similarity are as below:
 
 ![test](Snips/M_1.JPG)
 
-The results from User-User Similarity ar  as below:
+The results from User-User Similarity are as below:
 
 ![test](Snips/M_2.JPG)
 
