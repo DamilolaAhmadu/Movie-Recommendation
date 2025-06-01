@@ -73,4 +73,4 @@ We tried generating recommendations based on similarity matrix and Collaborative
 
 We tried to predict the ratings for movie the user might give based on its past rating behaviours and measure the accuracy using RMSE and MAPE error metrics.
 
-Surely, there is huge scope of improvement and trying out different techniques and ML/DL algorithms.
+Surely, there is a huge scope of improvement and trying out different techniques and ML/DL algorithms.
