@@ -71,6 +71,6 @@ We also built a movie recommendation system that considers user-user similarity,
 
 We tried generating recommendations based on similarity matrix and Collaborative Filtering techniques.
 
-We tried to predict the ratings for movie the user might give based on its past rating behaviours and measure the accuracy using RMSE and MAPE error metrics.
+We tried to predict the ratings for movies the user might give based on its past rating behaviours and measure the accuracy using RMSE and MAPE error metrics.
 
 Surely, there is a huge scope of improvement and trying out different techniques and ML/DL algorithms.
