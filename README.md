@@ -59,7 +59,7 @@ The results from different ML models are as follows:
 
 ![test](Snips/M_4.JPG)
 
-The sample movie recommendation based on Collaborative Filtering is as follows:
+The sample movie recommendations based on Collaborative Filtering is as follows:
 
 ![test](Snips/M_5.JPG)
 
