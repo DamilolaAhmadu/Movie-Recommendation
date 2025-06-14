@@ -6,7 +6,7 @@
 
 ## Business Objectives :
 
-All entertainment websites or online stores have million/billion of items. It become challenging for the customers to select the right one. Hence, recommender systems will come into the picture and help the user to find the right item by minimizing the options.
+All entertainment websites or online stores have million/billions of items. It become challenging for the customers to select the right one. Hence, recommender systems will come into the picture and help the user to find the right item by minimizing the options.
 
 Recommendation Systems in the world of machine learning have become very popular and are of huge advantages to tech giants like Netflix, Amazon and so many more to target their contents to a specific audience. These recommendation engines are so strong in their predictions that they can dynamically alter the state of what the users sees on their page based on the user’s interaction with the app.
 
