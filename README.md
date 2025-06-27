@@ -35,7 +35,7 @@ The following modelling approaches was used in the project:
 
 1. Loading & exploring the Movies and User ratings data
 2. Creating User-Item Matrix, User-User and Item-Item similarity matrices for Movie Recommendations
-3. Creating feature and applying ML models to predict the ratings for unseen movies for a user
+3. Creating features and applying ML models to predict the ratings for unseen movies for a user
 
 The detailed analysis and model creation can be found in the .ipynb file. 
 
