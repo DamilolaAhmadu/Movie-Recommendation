@@ -12,7 +12,7 @@ Recommendation Systems in the world of machine learning has become very popular 
 
 The business objectives are : 
 1. To create a Collaborative Filtering based Movie Recommendation Systems
-2. Predict the ratings a user would give to a movie that he has not yet rated
+2. Predict the ratings a user would give to movies that he has not yet rated
 3. Minimize the differences between predicted and actual ratings (RMSE and MAPE)
 
 ## Data Collection :
