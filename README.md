@@ -8,7 +8,7 @@
 
 All entertainment websites or online stores have million/billions of items. It become challenging for the customers to select the right one. Hence, recommender systems will come into the picture and help the user to find the right item by minimizing the options.
 
-Recommendation Systems in the world of machine learning has become very popular and are of huge advantages to tech giants like Netflix, Amazon and so many more to target their contents to a specific audience. These recommendation engines are so strong in their predictions that they can dynamically alter the state of what the users sees on their pages based on the user’s interaction with the app.
+Recommendation Systems in the world of machine learning has become very popular and are of huge advantages to tech giants like Netflix, Amazon and so many more to target their contents to a specific audience. These recommendation engines are so strong in their predictions that they can dynamically alter the state of what the users sees on their pages based on the user’s interaction with the apps.
 
 The business objectives are : 
 1. To create a Collaborative Filtering based Movie Recommendation Systems
