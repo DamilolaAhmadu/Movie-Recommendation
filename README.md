@@ -21,7 +21,7 @@ The data sets has been obtained from Grouplen.
 
 Link : https://grouplens.org/datasets/movielens/20m/
 
-This data sets (ml-20m) describes 5-star rating and free-text tagging activity from Movie Lens, a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This dataset was generated on October 17, 2016.
+This data sets (ml-20m) describes 5-star rating and free-text tagging activity from Movie Lens, a movie recommendation service. It contains 20000263 ratings and 465564 tag applications across 27278 movies. These data were created by 138493 users between January 09, 1995 and March 31, 2015. This datasets was generated on October 17, 2016.
 
 Users were selected at random for inclusion. All selected users has rated at least 20 movies. No demographic information is included. Each users is represented by an id, and no other informations was provided.
 
